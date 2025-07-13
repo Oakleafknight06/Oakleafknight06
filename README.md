@@ -1,8 +1,9 @@
 👋 Hi, I’m @Oakleafknight06!
 
-- Linux user (Fedora, fyi)
+- Linux user
 - Computer hardware enthusiast
 - Python enjoyer
+- Technology securer
 - Never satisfied with inadequate software
 <!---
 Oakleafknight06/Oakleafknight06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
